@@ -1,0 +1,115 @@
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Montserrat:wght@200;300&display=swap');
+
+body{
+    font-family: "montserrat";
+}
+
+ .principal{
+     display: flex; 
+    align-items: flex-start;
+    margin: auto;
+    width: 60%;
+    gap: 60px;
+} 
+
+
+.text h1{
+    text-transform: uppercase;
+    color: #E1466F;
+    font-family:"abril fatface";
+    letter-spacing: 3px;
+}
+
+.text p{
+   text-align: left;
+}
+
+ img{
+    height: 250px;
+
+}
+
+.button {
+    width: 100%;
+    display: flex;
+    gap: 40px;
+    margin-top: 50px;
+}
+ .button img{
+     height: 30px;
+ }
+
+ .button a{
+    text-decoration: none;
+    color: white !important; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+    
+ }
+ .twitter{
+    background: rgb(44, 138, 196);
+    padding: 10px 20px;
+ }
+ .linkedin{
+    background-color:rgb(40, 101, 193)  ;
+    padding: 10px 20px;
+ }
+
+ .medium{
+    background-color: black;
+    padding: 10px 20px;
+ }
+
+ .articles{
+    padding-top: 100px;
+    gap: 10px;
+    display: flex;
+    margin: auto;
+    width: 60%;
+    
+ }
+
+ .articles h2{
+    color: #E1466F;
+ }
+
+.modifier-color{
+    color: #E1466F;
+
+}
+
+.modifier-color1 a{
+    color: #E1466F !important;
+    text-decoration: underline;
+} 
+
+.articles2{
+    padding-top: 100px;
+    gap: 10px;
+    display: flex;
+    margin: auto;
+    width: 60%;
+}
+.articles2 h2{
+    color: #E1466F; 
+}
+
+.articles3{
+    padding-top: 100px;
+    gap: 10px;
+    display: flex;
+    margin: auto;
+    width: 60%;
+}
+
+.articles3 h2{
+    color: #E1466F;
+}
+
+
+
+
+

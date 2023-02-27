@@ -16,7 +16,7 @@ header{
     padding-left: 20%;
 }
 
-.lien{font-family: 'Montserrat' ;
+.lien{font-family: 'Montserrat';
     display: flex;
     flex-direction: row;
     justify-content: space-around;

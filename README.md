@@ -10,7 +10,7 @@ Le client nous laisse libre de réaliser les pages "À propos" et "Contact" comm
 
 ## Maquettes fournies
 
-Le client a fourni les maquettes pour les pages [Blog](Ressources/Blog-accueil.pdf) et [Article](Ressources/Blog-post.pdf)..
+Le client a fourni les maquettes pour les pages [Blog](Ressources/Blog-accueil.pdf) et [Article](Ressources/Blog-post.pdf).
 
 ## Charte graphique
 
@@ -20,7 +20,7 @@ Le client a fourni les maquettes pour les pages [Blog](Ressources/Blog-accueil.p
 
 ## Description
 
-Réalisation du site à l'aide des technologies HTML5 et CSS3.
-Réalisation des pages Blog ainsi que Article en suivant les maquettes fournies.
-Réalisation de la page A propos, reprennant la barre de navigation des maquettes puis composée d'une section sur le blogeur avec une image, d'une section décrivant le métier du blogeur puis avec les réseaux en bas de page.
-Réalisation de la page Contact, reprennant la barre de navigation des maquettes puis composée d'un formulaire de contact avec un titre, les champs du formulaire comprennant le nom, l'email, la raison du message ainsi qu'une zone de texte pour le message et d'un bouton d'envoi. Sous le formulaire nous avons repris la mise en forme d'une des maquettes pour ajouter les réseaux tout en respectant la charte graphique.
+Réalisation du site à l'aide des technologies HTML5 et CSS3.  
+Réalisation des pages Blog ainsi que Article en suivant les maquettes fournies.  
+Réalisation de la page A propos, reprennant la barre de navigation des maquettes puis composée d'une section sur le blogeur avec une image, d'une section décrivant le métier du blogeur puis avec les réseaux en bas de page.  
+Réalisation de la page Contact, reprennant la barre de navigation des maquettes puis composée d'un formulaire de contact avec un titre, les champs du formulaire comprennant le nom, l'email, la raison du message ainsi qu'une zone de texte pour le message et d'un bouton d'envoi. Sous le formulaire nous avons repris la mise en forme d'une des maquettes pour ajouter les réseaux tout en respectant la charte graphique.  

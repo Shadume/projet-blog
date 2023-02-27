@@ -1,0 +1,118 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@600&display=swap%27');
+
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap%27');
+
+
+header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-right: 20%;
+}
+
+
+.logo{
+    padding-left: 20%;
+}
+
+.lien{
+    font-family: 'Montserrat' ;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    min-width: 27%;
+}
+
+a{
+    text-decoration: none;
+    color:#7B7B7B;
+}
+
+a:first-of-type{
+    color: #5A47AB;
+}
+
+main{display: flex;
+    margin-left: 15%;
+    margin-right: 15%;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;     
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    padding-bottom: 2%;
+    font-family: 'Abril Fatface';
+    font-style: normal;
+    font-weight: 300;
+    color: #9c2872;
+    font-size: 50px !important;
+}
+
+.femmeconcentree{
+    display: flex;
+    width: 500px;
+    padding-left: 30%;
+    justify-content: center;
+    padding-bottom: 2%;
+}
+
+.lorem1{
+    margin-left: 5%;
+    margin-right: 5%;
+    font-size: 20px;
+}
+
+h2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #9c2872;
+    font-size: x-large;
+    font-size: 30px !important;
+}
+
+.lorem2{
+    margin-left: 5%;
+    margin-right: 6%;
+    margin-bottom: 4%;
+    font-size: 20px;
+}
+
+h3{
+    display: flex;
+    justify-content: center;
+    font-size: x-large;
+}
+
+.reseau{
+    display: flex;
+    flex-direction:column;
+    margin: 0 auto 3% auto;
+    background:linear-gradient(#471d51, rgb(58, 58, 246)) ;
+    width: 80%;
+    color: white;
+}
+
+.icone{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-bottom: 2%;
+    
+}
+.insta img{
+    width: 75px;
+}
+
+.tipeee img{
+    width: 75px;
+}
+
+.facebook img{
+    padding-right: 30%;
+    width: 75px;
+}

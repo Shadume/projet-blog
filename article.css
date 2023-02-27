@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+
+h1 { font-family:"abril fatface"; color: rgb(226, 43, 156); font-weight: 300;}
+body{font-family: "Montserrat";}
+
+
+.center {
+    display: flex;
+    justify-content: center;
+}
+
+.center img{ width: 70%;}
+
+
+.marge { margin-left: 15%; margin-right: 15%; }
+h2 { color: rgb(40, 40, 153);}
+h3 { color: rgb(40, 40, 153);}
+.propos { color: rgb(226, 43, 156)}
+p{ margin-bottom: 20px;}
+section { 
+    display: flex;
+}
+.img img{ 
+    width: 60%;
+}
+.text{ width: 90%;}
+
+.img { 
+    display: flex;
+    justify-content: right;
+}
+.reseaux { 
+    display: flex;
+    justify-content: space-between;
+}
+
+.reseaux a {width: 30%; height: 40px; padding: 5px 10px; margin-right: 10px; display: flex ;
+justify-content: space-around; align-items: center;}  
+.twitter { background-color: #47ACDF; color: white !important;}
+.linkedin { background-color: #1275B1; color: white;}
+.medium { background-color: black; color: white;}
+
+.reseaux a img { width: 22%;} 

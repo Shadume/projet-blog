@@ -24,3 +24,4 @@ Réalisation du site à l'aide des technologies HTML5 et CSS3.
 Réalisation des pages Blog ainsi que Article en suivant les maquettes fournies.  
 Réalisation de la page A propos, reprennant la barre de navigation des maquettes puis composée d'une section sur le blogeur avec une image, d'une section décrivant le métier du blogeur puis avec les réseaux en bas de page.  
 Réalisation de la page Contact, reprennant la barre de navigation des maquettes puis composée d'un formulaire de contact avec un titre, les champs du formulaire comprennant le nom, l'email, la raison du message ainsi qu'une zone de texte pour le message et d'un bouton d'envoi. Sous le formulaire nous avons repris la mise en forme d'une des maquettes pour ajouter les réseaux tout en respectant la charte graphique.  
+Réalisation de la page CV, reprennant la barre de navigation des maquettes puis composée des photos et d'une description de chaque membre de l'équipe

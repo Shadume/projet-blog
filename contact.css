@@ -1,0 +1,121 @@
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+main h1{
+    font-family: "abril fatface";
+    font-weight: 300;
+    color: #D05270;
+    margin-bottom: 50px;
+}
+
+main {
+    display: flex !important;
+    flex-direction: column;
+    align-items: center;
+    font-family: "montserrat", sans-serif;
+}
+
+textarea::placeholder, form input::placeholder {
+    color: #D05270;
+}
+
+form input[type="text"], form input[type="email"]{
+    min-width: 250px;
+    margin-bottom: 10px;
+    border: none;
+    background: rgb(241, 241, 241);
+    padding: 10px 0 10px 20px;
+}
+
+select {
+    min-width: 545px;
+    border: none;
+    background: rgb(241, 241, 241);
+    color: #D05270;
+    margin-bottom: 10px !important;
+    padding: 10px 0 10px 20px;
+}
+
+textarea {
+    min-width: 525px;
+    min-height: 150px;
+    margin-bottom: 10px !important;
+    border: none;
+    background: rgb(241, 241, 241);
+    resize: none;
+    padding: 10px 0 10px 20px;
+}
+
+form input[type="submit"]{
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    align-items: center;
+    min-width: 150px;
+    border: none;
+    background: #D05270;
+    color: white;
+    min-height: 30px;
+}
+
+form {
+    margin-bottom: 50px;
+}
+
+section{
+    display: flex;
+    width: 65%;
+    justify-content: space-between;
+    margin: auto;
+    font-family: "Montserrat", sans-serif;
+    margin-top: 50px;
+}
+
+section img {
+    max-width: 100%;
+}
+
+.img{
+    max-width: 30%;
+}
+
+.gauche {
+    max-width: 50%;
+    margin-right: 80px;
+}
+
+.gauche h2{
+    color: #D05270;
+    font-size: 30px;
+}
+
+.reseaux img{
+    max-width: 20px;
+    margin-right: 10px;
+}
+
+.reseaux {
+    display: flex;
+    margin-top: 30px;
+}
+
+.reseaux a {
+    color: white !important;
+    padding: 20px 30px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    max-width: 20%;
+    margin-right: 10px;
+}
+
+.twitter{
+    background: #46AEDE;
+}
+
+.linkedin{
+    background: #0B78B0;
+}
+
+.medium{
+    background: black;
+}

@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="header.css">
+    <link rel="stylesheet" href="contact.css">
+    <link rel="stylesheet" href="normalize.css">
+    <title>Header</title>
+</head>
+<body>
+    <header>
+        <div class="logo">
+            <img src="logo.png" alt="Logo">
+        </div>
+        <div class="lien">
+            <a href="blog.html">BLOG</a>
+            <a href="cv.html">CV</a>
+            <a href="a-propos.html">À PROPOS</a>
+            <a href="contact.html">CONTACT</a>
+        </div>
+    </header>
+    <main>
+        <h1>Nous contacter</h1>
+        <form>
+            <div>
+                <input type="text" name="name" id="name" placeholder="Nom" required>
+                <input type="email" name="email" id="email" placeholder="Email" required>
+            </div>
+            <div>
+                <select name="reason" id="reason" required>
+                    <option value="">Selectionnez la raison de votre message</option>
+                    <option value="option1">Lorem, ipsum dolor.</option>
+                    <option value="option2">Lorem, ipsum dolor.</option>
+                    <option value="option3">Lorem, ipsum dolor.</option>
+                </select>
+            </div>
+            <div>
+                <textarea name="message" id="message" placeholder="Saisissez votre message ici..." required></textarea>
+            </div>
+            <div>
+                <input type="submit" name="message" id="message" value="Envoyer">
+            </div>
+        </form>
+        <section>
+            <div class="gauche">
+                <h2>Découvrez moi sur les réseaux</h2>
+                <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nobis qui cumque ducimus doloremque fugit aliquid corrupti esse animi maiores! Maxime ratione blanditiis at officia doloribus suscipit, facilis omnis rerum. Inventore velit repellat quasi explicabo quod.</p>
+                <div class="reseaux">
+                    <a target="_blank" href="https://twitter.com/" class="twitter"><img src="Ressources/twitter.png" alt="logo de Twitter">Twitter</a>
+                    <a target="_blank" href="https://fr.linkedin.com" class="linkedin"><img src="Ressources/linkedin.png" alt="logo de Linkedin">Linkedin</a>
+                    <a target="_blank" href="https://medium.com" class="medium"><img src="Ressources/medium.png" alt="logo de Medium">Medium</a>
+                </div>
+            </div>
+            <div class="img">
+                <img src="Ressources/illustration.png">
+            </div>
+        </section>
+    </main>
+</body>
+</html>
